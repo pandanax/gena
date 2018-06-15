@@ -1,0 +1,359 @@
+{
+  "Graph": {
+    "tree": {
+      "children": [
+        {
+          "children": [{
+            "children": [{
+              "children": [
+                {
+                  "children": [],
+                  "id": 53,
+                  "text": "DiscogsEntityType"
+                }
+
+              ],
+              "id": 49,
+              "text": "Query"
+            }],
+            "id": 11,
+            "text": "Data"
+          }],
+          "id": 1,
+          "text": "DiscogsClient"
+        }
+      ],
+      "id": 0,
+      "text": "DiscogsClient"
+    },
+    "links": [],
+    "text": "DiscogsClient"
+  }
+}
+/* [
+      {
+        "source": 3,
+        "target": 5,
+        "value": 4
+      },
+      {
+        "source": 3,
+        "target": 6,
+        "value": 4
+      },
+      {
+        "source": 3,
+        "target": 7,
+        "value": 4
+      },
+      {
+        "source": 3,
+        "target": 10,
+        "value": 2
+      },
+      {
+        "source": 3,
+        "target": 13,
+        "value": 2
+      },
+      {
+        "source": 3,
+        "target": 14,
+        "value": 2
+      },
+      {
+        "source": 3,
+        "target": 15,
+        "value": 2
+      },
+      {
+        "source": 3,
+        "target": 16,
+        "value": 2
+      },
+      {
+        "source": 3,
+        "target": 17,
+        "value": 2
+      },
+      {
+        "source": 3,
+        "target": 20,
+        "value": 2
+      },
+      {
+        "source": 3,
+        "target": 24,
+        "value": 2
+      },
+      {
+        "source": 3,
+        "target": 32,
+        "value": 2
+      },
+      {
+        "source": 3,
+        "target": 36,
+        "value": 2
+      },
+      {
+        "source": 3,
+        "target": 40,
+        "value": 2
+      },
+      {
+        "source": 3,
+        "target": 41,
+        "value": 2
+      },
+      {
+        "source": 3,
+        "target": 44,
+        "value": 2
+      },
+      {
+        "source": 3,
+        "target": 50,
+        "value": 2
+      },
+      {
+        "source": 3,
+        "target": 51,
+        "value": 2
+      },
+      {
+        "source": 3,
+        "target": 52,
+        "value": 1
+      },
+      {
+        "source": 3,
+        "target": 54,
+        "value": 2
+      },
+      {
+        "source": 5,
+        "target": 6,
+        "value": 4
+      },
+      {
+        "source": 5,
+        "target": 13,
+        "value": 2
+      },
+      {
+        "source": 5,
+        "target": 14,
+        "value": 2
+      },
+      {
+        "source": 5,
+        "target": 17,
+        "value": 2
+      },
+      {
+        "source": 5,
+        "target": 24,
+        "value": 2
+      },
+      {
+        "source": 5,
+        "target": 32,
+        "value": 2
+      },
+      {
+        "source": 5,
+        "target": 36,
+        "value": 2
+      },
+      {
+        "source": 5,
+        "target": 40,
+        "value": 2
+      },
+      {
+        "source": 5,
+        "target": 41,
+        "value": 2
+      },
+      {
+        "source": 5,
+        "target": 44,
+        "value": 2
+      },
+      {
+        "source": 5,
+        "target": 50,
+        "value": 2
+      },
+      {
+        "source": 5,
+        "target": 51,
+        "value": 2
+      },
+      {
+        "source": 5,
+        "target": 54,
+        "value": 2
+      },
+      {
+        "source": 6,
+        "target": 15,
+        "value": 2
+      },
+      {
+        "source": 6,
+        "target": 20,
+        "value": 2
+      },
+      {
+        "source": 7,
+        "target": 16,
+        "value": 2
+      },
+      {
+        "source": 9,
+        "target": 10,
+        "value": 4
+      },
+      {
+        "source": 13,
+        "target": 28,
+        "value": 4
+      },
+      {
+        "source": 14,
+        "target": 28,
+        "value": 4
+      },
+      {
+        "source": 15,
+        "target": 25,
+        "value": 2
+      },
+      {
+        "source": 16,
+        "target": 28,
+        "value": 4
+      },
+      {
+        "source": 17,
+        "target": 28,
+        "value": 4
+      },
+      {
+        "source": 18,
+        "target": 28,
+        "value": 4
+      },
+      {
+        "source": 19,
+        "target": 33,
+        "value": 2
+      },
+      {
+        "source": 22,
+        "target": 28,
+        "value": 4
+      },
+      {
+        "source": 24,
+        "target": 35,
+        "value": 4
+      },
+      {
+        "source": 27,
+        "target": 25,
+        "value": 2
+      },
+      {
+        "source": 27,
+        "target": 26,
+        "value": 4
+      },
+      {
+        "source": 27,
+        "target": 43,
+        "value": 2
+      },
+      {
+        "source": 32,
+        "target": 28,
+        "value": 4
+      },
+      {
+        "source": 32,
+        "target": 37,
+        "value": 2
+      },
+      {
+        "source": 33,
+        "target": 34,
+        "value": 2
+      },
+      {
+        "source": 35,
+        "target": 28,
+        "value": 4
+      },
+      {
+        "source": 36,
+        "target": 26,
+        "value": 2
+      },
+      {
+        "source": 36,
+        "target": 28,
+        "value": 4
+      },
+      {
+        "source": 36,
+        "target": 53,
+        "value": 2
+      },
+      {
+        "source": 37,
+        "target": 28,
+        "value": 4
+      },
+      {
+        "source": 39,
+        "target": 28,
+        "value": 4
+      },
+      {
+        "source": 40,
+        "target": 31,
+        "value": 2
+      },
+      {
+        "source": 41,
+        "target": 27,
+        "value": 2
+      },
+      {
+        "source": 41,
+        "target": 35,
+        "value": 4
+      },
+      {
+        "source": 44,
+        "target": 28,
+        "value": 4
+      },
+      {
+        "source": 51,
+        "target": 21,
+        "value": 2
+      },
+      {
+        "source": 51,
+        "target": 23,
+        "value": 2
+      },
+      {
+        "source": 54,
+        "target": 53,
+        "value": 2
+      }
+    ]*/
